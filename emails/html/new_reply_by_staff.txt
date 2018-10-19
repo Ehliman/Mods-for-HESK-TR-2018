@@ -1,0 +1,10 @@
+<p>Sayın %%NAME%%,</p>
+<p>"%%SUBJECT%%" konulu talebinize cevap verdik.</p>
+<p>Mesajı okumak, cevap göndermek ve detayları görüntülemek için lütfen adresini ziyaret edin:</p>
+%%TRACK_URL%%
+<br><br>
+<p>Yukarıdaki bağlantı tıklanabilir değilse, web tarayıcınızın adres çubuğuna kopyalayıp yapıştırmayı deneyin.</p>
+<p>Saygılarımızla,</p>
+%%SITE_TITLE%%
+<br>
+%%SITE_URL%%

@@ -1,0 +1,14 @@
+Merhaba %%NAME%%,
+
+"%%SUBJECT%%" destek talebilinizin durumu Çözümlendi/Kapatıldı olarak değiştirilmiştir.
+
+Takip numarası: %%TRACK_ID%%
+
+Talebinizin statüsünü aşağıdaki bağlantıdan kontrol edebilirsiniz:
+%%TRACK_URL%%
+
+
+Saygılarımızla,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

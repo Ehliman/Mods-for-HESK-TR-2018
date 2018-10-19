@@ -1,0 +1,8 @@
+<p>Sayın %%NAME%%,</p>
+<p>"%%SUBJECT%%" destek talebiniz kapalı/çözümlenmiş bir duruma güncellendi.</p>
+<p>Talebin durumunu buradan görebilirsiniz.:
+%%TRACK_URL%%</p>
+<p>Yukarıdaki bağlantı tıklanabilir değilse, Web tarayıcınızın adres çubuğuna kopyalamayı ve yapıştırmayı deneyin.</p>
+<p>Saygılarımızla,</p>
+%%SITE_TITLE%% <br>
+%%SITE_URL%%

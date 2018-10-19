@@ -1,0 +1,6 @@
+<p>Sayın %%NAME%%,</p>
+<p>Bu e-posta, e-posta adresinizle birlikte gönderilen destek biletlerinin listesini içerir. Bulunan destek biletlerinin sayısı: %%NUM%%</p>
+<p>%%LIST_TICKETS%%</p>
+<p>Saygılarımızla,</p>
+%%SITE_TITLE%% <br>
+%%SITE_URL%%

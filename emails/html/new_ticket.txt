@@ -1,0 +1,10 @@
+<p>Sayın %%NAME%%,</p>
+<p>"%%SUBJECT%%" Konulu destek talebiniz sistemimize kaydedildi.</p>
+<p>Tüm destek taleplerini imkanlarımız doğrultusunda 24 saat içerisinde cevaplamaya ve sorunları çözmeye gayret etmekteyiz..</p>
+<p>Takip Numarası: %%TRACK_ID%%</p>
+<p>Biletin durumunu buradan görebilirsiniz: %%TRACK_URL%%</p>
+<p>Personelimiz biletinize cevap verdiğinde bir e-posta bildirimi alacaksınız.</p>
+<p>Saygılarımızla,</p>
+<p>%%SITE_TITLE%% <br /> %%SITE_URL%%</p>
+<p>&nbsp;</p>
+<p><strong>Talep Durumu:</strong> %%STATUS%%</p>

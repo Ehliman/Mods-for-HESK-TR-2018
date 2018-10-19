@@ -1,0 +1,11 @@
+<p>Merhaba,</p>
+<p>Yeni bir destek talebi gönderildi. Talep detayları:</p>
+<p><strong>Talep Konusu:</strong> %%SUBJECT%%</p>
+<p>Takip Numarası: <strong>%%TRACK_ID%%</strong></p>
+<p><strong>Lokasyon:</strong> %%CUSTOM1%%</p>
+<p><strong>Mesaj:</strong><br />%%MESSAGE%%</p>
+<p>Bu talebi buradan yönetebilirsiniz:
+%%TRACK_URL%%</p>
+<p>Regards,</p>
+%%SITE_TITLE%% <br>
+%%SITE_URL%%

@@ -1,0 +1,8 @@
+<p>Merhaba,</p>
+<p>Aşağıdaki konuyla %%NAME%% adlı kullanıcıdan yeni bir özel mesaj aldınız:</p>
+<p>%%SUBJECT%%</p>
+<p>Yeni mesajınızı aşağıdaki linke tıklayarak görüntüleyebilirsiniz.:
+%%TRACK_URL%%</p>
+<p>Saygılarımızla,</p>
+%%SITE_TITLE%% <br>
+%%SITE_URL%%

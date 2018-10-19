@@ -1,0 +1,16 @@
+Hello,
+
+Size atanan bir destek talebi yeniden açıldı.
+
+%%NAME%%, "%%SUBJECT%%" adlı biletini yeni açtı.
+
+Takip numarası: %%TRACK_ID%%
+
+Bu link ile talebi yönetebilirsiniz:
+%%TRACK_URL%%
+
+
+Regards,
+
+%%SITE_TITLE%%
+%%SITE_URL%%
